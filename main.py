@@ -6,7 +6,7 @@ faceCascade = cv2.CascadeClassifier("haarcascade_frontalface_default.xml")
 
 cap = cv2.VideoCapture("Dark-Phoenix-Cast.jpg") #For images.
 
-#cap = cv2.VideoCapture(0) #For web cam just comment the previous line and uncommend this line.
+#cap = cv2.VideoCapture(0) #For web cam just comment the previous line and uncomment this line.
 
 while True:
 
